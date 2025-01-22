@@ -1,4 +1,4 @@
-## Olá! Eu sou a Geovanna Nunes 🌟
+## Olá! Me chamo Geovanna Nunes 🌟
 
 💻 Sobre mim
 	•	Estudante do 3º ano do ensino médio, apaixonada por tecnologia.
