@@ -1,9 +1,5 @@
 ## Olá! Me chamo Geovanna Nunes 🌟
 
- <div align="center">
-  <img src="https://i.pinimg.com/originals/f9/57/6f/f9576fca9fc8ef79976a1d6327bbe9ae.gif" height="380" alt="Descrição da imagem">
-</div>
-
 💻 Sobre mim
 	•	Estudante do 3º ano do ensino médio, apaixonada por tecnologia.
 	•	Interessada em Engenharia de Software, DevOps e Fullstack.
