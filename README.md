@@ -41,7 +41,7 @@
 </div>
 
 <div align="center">
-<img src="https://www.icegif.com/wp-content/uploads/2023/05/icegif-567.gif" height="280" alt="GIF_0_1" >
+<img src="https://www.icegif.com/wp-content/uploads/2023/05/icegif-567.gif" height="250" alt="GIF_0_1" >
 </div>
 
  ## 📊 GitHub Stats:
