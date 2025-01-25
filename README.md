@@ -1,19 +1,25 @@
-## Olá! Me chamo Geovanna Nunes 🌟
+<div align="center">
+
+# Sejam bem vindos ao meu Github!
+
+<img src="https://i.pinimg.com/originals/f9/57/6f/f9576fca9fc8ef79976a1d6327bbe9ae.gif" height="320" alt="GIF de boas-vindas">
+</div>
+
 
 ## 💻 Sobre mim
-•Estudante do 3º ano do ensino médio, apaixonada por tecnologia. <br>
-•Interessada em Engenharia de Software e Desenvolvimento Front-end. <br>
-•Atualmente aprendendo HTML, CSS, Python e JavaScript.
+    •Estudante do 3º ano do ensino médio, apaixonada por tecnologia. <br>
+    •Interessada em Engenharia de Software e Desenvolvimento Front-end. <br>
+    •Atualmente aprendendo HTML, CSS, Python e JavaScript.
 
 
 
 ## 🚀 Objetivos
-•Obter a certificação AWS Cloud Practitioner. <br>
-•Aprimorar meus conhecimentos em Front-end. <br>
-•Aprender design responsivo e boas práticas de desenvolvimento.
+    •Obter a certificação AWS Cloud Practitioner. <br>
+    •Aprimorar meus conhecimentos em Front-end. <br>
+    •Aprender design responsivo e boas práticas de desenvolvimento.
 
 ## ☁ Explorando AWS
-•Serviços: EC2, S3, Route 53, IAM, VPC, RDS.
+    •Serviços: EC2, S3, Route 53, IAM, VPC, RDS.
 
 
  ## 🌟 Tecnologias
@@ -34,6 +40,9 @@
  
 </div>
 
+<div align="center">
+<img src="https://www.icegif.com/wp-content/uploads/2023/05/icegif-567.gif" height="280" alt="GIF_0_1" >
+</div>
 
  ## 📊 GitHub Stats:
 
@@ -52,9 +61,11 @@
 </div>
 
  ## 🐍 Contribuições no GitHub
-
+ 
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GeovannaApNunes/GeovannaApNunes/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GeovannaApNunes/GeovannaApNunes/output/github-contribution-grid-snake.svg">
   <img alt="Snake animation" src="https://raw.githubusercontent.com/GeovannaApNunes/GeovannaApNunes/output/github-contribution-grid-snake.svg">
 </picture>
+</div>
