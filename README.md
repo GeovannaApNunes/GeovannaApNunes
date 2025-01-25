@@ -1,22 +1,28 @@
 ## Olá! Me chamo Geovanna Nunes 🌟
 
 ## 💻 Sobre mim
-	•	Estudante do 3º ano do ensino médio, apaixonada por tecnologia.
-	•	Interessada em Engenharia de Software e Desenvolvimento Front-end.
-	•	Atualmente aprendendo HTML, CSS, Python e JavaScript.
+•Estudante do 3º ano do ensino médio, apaixonada por tecnologia. <br>
+•Interessada em Engenharia de Software e Desenvolvimento Front-end. <br>
+•Atualmente aprendendo HTML, CSS, Python e JavaScript.
 
- <video width="250" height="300" autoplay loop muted>
-  <source src="img/My_gif.mp4" type="video/mp4">
-  Seu navegador não suporta a tag de vídeo.
-</video>
+
 
 ## 🚀 Objetivos
-	•	Obter a certificação AWS Cloud Practitioner.
-	•	Aprimorar meus conhecimentos em Front-end.
-	•	Aprender design responsivo e boas práticas de desenvolvimento.
+•Obter a certificação AWS Cloud Practitioner. <br>
+•Aprimorar meus conhecimentos em Front-end. <br>
+•Aprender design responsivo e boas práticas de desenvolvimento.
 
 ## ☁ Explorando AWS
-	•	Serviços: EC2, S3, Route 53, IAM, VPC, RDS.
+•Serviços: EC2, S3, Route 53, IAM, VPC, RDS.
+
+
+ ## 🌟 Tecnologias
+
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="30">&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="30">&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="30">&nbsp;
+</div>
 
 ## 🔧 Ferramentas
 	
@@ -35,16 +41,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GeovannaApNunes&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Geovanna's GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeovannaApNunes&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
 </div>
-
-
- ## 🌟 Tecnologias
-
-<div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="30">&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="30">&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="30">&nbsp;
-</div>
-
 
   ## 🌐 Conecte-se comigo
 
