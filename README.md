@@ -7,15 +7,15 @@
 
 
 ## 💻 Sobre mim
-    •Estudante do 3º ano do ensino médio, apaixonada por tecnologia. <br>
-    •Interessada em Engenharia de Software e Desenvolvimento Front-end. <br>
+    •Estudante do 3º ano do ensino médio, apaixonada por tecnologia.
+    •Interessada em Engenharia de Software e Desenvolvimento Front-end. 
     •Atualmente aprendendo HTML, CSS, Python e JavaScript.
 
 
 
 ## 🚀 Objetivos
-    •Obter a certificação AWS Cloud Practitioner. <br>
-    •Aprimorar meus conhecimentos em Front-end. <br>
+    •Obter a certificação AWS Cloud Practitioner. 
+    •Aprimorar meus conhecimentos em Front-end.
     •Aprender design responsivo e boas práticas de desenvolvimento.
 
 ## ☁ Explorando AWS
