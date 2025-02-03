@@ -46,7 +46,10 @@
 
  ## 📊 GitHub Stats:
 
-
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GeovannaApNunes&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Geovanna's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeovannaApNunes&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
+</div>
 
   ## 🌐 Conecte-se comigo
 
