@@ -71,9 +71,3 @@
   <a href = "mailto: contato: geovannanunes349@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
- ## 🐍 Contribuições no GitHub
- 
-<div align="center">
-<img src="https://raw.githubusercontent.com/GeovannaApNunes/GeovannaApNunes/output/snake.svg" alt="Snake animation" />
-</div>
-
