@@ -48,11 +48,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/GeovannaApNunes/count.svg?"  />
-</div>
-
-###
  ## 📊 GitHub Stats:
 
 <div align="center">
