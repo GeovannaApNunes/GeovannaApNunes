@@ -1,25 +1,39 @@
-<div align="center">
+<h1 align="center">Sejam bem-vindos ao meu GitHub! 👋</h1>
 
-# Sejam bem vindos ao meu Github!
+<p align="center">
+  <img src="https://i.pinimg.com/originals/f9/57/6f/f9576fca9fc8ef79976a1d6327bbe9ae.gif" height="320" alt="GIF de boas-vindas"/>
+</p>
 
-<img src="https://i.pinimg.com/originals/f9/57/6f/f9576fca9fc8ef79976a1d6327bbe9ae.gif" height="320" alt="GIF de boas-vindas max-width: 100%" >
-</div>
-
+---
 
 ## 💻 Sobre mim
-    •Estudante do 3º ano do ensino médio, apaixonada por tecnologia.
-    •Interessada em Engenharia de Software e Desenvolvimento Front-end. 
-    •Atualmente aprendendo HTML, CSS, Python e JavaScript.
 
+- 🎓 Estudante do 3º ano do ensino médio, apaixonada por tecnologia.
+- 💡 Interessada em Engenharia de Software e Desenvolvimento Front-end.
+- ✅ Já possuo a certificação **AWS Cloud Practitioner**.
+- 📚 Atualmente aprimorando minhas habilidades em **Python** e **JavaScript**, e aprendendo **Terraform**.
 
+---
 
 ## 🚀 Objetivos
-    •Obter a certificação AWS Cloud Practitioner. 
-    •Aprimorar meus conhecimentos em Front-end.
-    •Aprender design responsivo e boas práticas de desenvolvimento.
+
+- 🎯 Estudando para conquistar a certificação **AWS Developer Associate**.
+- 👩‍💻 Aprimorar cada vez mais meus conhecimentos em desenvolvimento e práticas DevOps.
+- ☁ Aprender infraestrutura como código com foco em **Terraform**.
+
+---
 
 ## ☁ Explorando AWS
-    •Serviços: EC2, S3, Route 53, IAM, VPC, RDS.
+
+Tenho explorado diversos serviços da AWS em diferentes áreas da nuvem:
+
+- ☁ **Computação:** EC2, Lambda, Auto Scaling
+- 💾 **Armazenamento:** S3, EBS, EFS, AWS Backup
+- 🧠 **Inteligência Artificial:** Rekognition, Polly, Comprehend
+- 🔐 **Segurança:** IAM, KMS, WAF, Shield
+- 🌐 **Redes:** VPC, Route 53, CloudFront
+- 🗃️ **Bancos de Dados:** RDS, DynamoDB
+- 🛠️ **DevOps & IaC:** CloudFormation, CodeCommit, CloudTrail
 
 
  ## 🌟 Tecnologias
