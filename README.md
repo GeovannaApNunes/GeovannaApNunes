@@ -1,4 +1,7 @@
-<h1 align="center">Sejam bem-vindos ao meu GitHub! 👋</h1>
+<h1 align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bitcount&size=35&pause=1000&width=700&lines=%F0%9F%91%8B+Hi+there%2C+I'Geovana+Nunes!+)](https://git.io/typing-svg)
+</h1>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/f9/57/6f/f9576fca9fc8ef79976a1d6327bbe9ae.gif" height="320" alt="GIF de boas-vindas"/>
@@ -79,4 +82,10 @@ Tenho explorado diversos serviços da AWS em diferentes áreas da nuvem:
  <a href="https://discord.gg/xfFraNfm" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto: contato: geovannanunes349@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GeovannaApNunes/GeovannaApNunes/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GeovannaApNunes/berilovania/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GeovannaApNunes/GeovannaApNunes/output/pacman-contribution-graph.svg">
+</picture>
 
