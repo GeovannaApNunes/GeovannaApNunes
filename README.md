@@ -100,6 +100,12 @@ Experiência prática com os principais serviços:
 
 ---
 
+## 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GeovannaApNunes&theme=dracula&no-frame=true&margin-w=15&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
 ## 📊 GitHub Stats
 
 <div align="center">
