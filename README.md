@@ -20,7 +20,7 @@
 
 ## 🎯 Objetivos
 
-- 📜 Conquistar a certificação **AWS Developer Associate**.
+- 📜 Conquistar a certificação **Solutions Architect - Associate**
 - 🚀 Aprofundar conhecimentos em **DevOps** e práticas de CI/CD.
 - 🏗️ Dominar **Terraform** e infraestrutura como código (IaC).
 
@@ -45,9 +45,12 @@ Experiência prática com os principais serviços:
 <p align="center">
   <img width="170" alt="Badge 1" src="https://github.com/user-attachments/assets/b637000d-c1cb-4866-a8d5-129eccbb2ccf" />
   <img width="170" alt="Badge 2" src="https://github.com/user-attachments/assets/5a4c040b-e22a-42e5-b29c-8e08b9f4a735" />
-  <img width="170" alt="Badge 3" src="https://github.com/user-attachments/assets/22a920f8-86a4-457f-a6a7-5037af1fb52b" />
-  <img width="170" alt="Badge 4" src="https://github.com/user-attachments/assets/53c7d387-c180-4e01-94d4-b8655adc7cc8" />
-  <img width="170" alt="Badge 5" src="https://github.com/user-attachments/assets/75851192-f51e-48df-854d-8682a6aad710" />
+  <img width="170" alt="Badge 3" src="https://github.com/user-attachments/assets/60a6be0c-52de-4df9-9a4e-5396b95908ee" />
+  <img width="170" alt="Badge 4" src="https://github.com/user-attachments/assets/a17f8d81-7277-4a71-82ad-1d8b849eca34" />
+  <img width="170" alt="Badge 5" src="https://github.com/user-attachments/assets/21f0acd8-9512-4390-baf0-881d0e881a08" />
+  <img width="170" alt="Badge 6" src="https://github.com/user-attachments/assets/22a920f8-86a4-457f-a6a7-5037af1fb52b" />
+  <img width="170" alt="Badge 7" src="https://github.com/user-attachments/assets/53c7d387-c180-4e01-94d4-b8655adc7cc8" />
+  <img width="170" alt="Badge 8" src="https://github.com/user-attachments/assets/75851192-f51e-48df-854d-8682a6aad710" />
 </p>
 
 ---
