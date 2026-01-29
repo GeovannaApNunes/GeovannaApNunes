@@ -12,7 +12,7 @@
 
 ## 💻 Sobre mim
 
-- 🎓 Estudante do 3º ano do Ensino Médio, apaixonada por tecnologia.
+- 🎓 Estudante de Sistemas de Informação na Unipam, apaixonada por tecnologia.
 - 💡 Interesso-me por Engenharia de Software e Desenvolvimento Front-end.
 - 📚 Estudando **Python**, **AWS**, **JavaScript** e **Terraform**.
 
