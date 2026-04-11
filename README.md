@@ -112,13 +112,13 @@ Experiência prática com os principais serviços:
 </div>
 -->
 ## 📊 GitHub Stats
-
+<!--
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GeovannaApNunes&show_icons=true&theme=dark&count_private=true&hide_border=false" height="150" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeovannaApNunes&layout=compact&langs_count=6&theme=dark&hide_border=false" height="150" alt="Top Languages"/>
 </div>
+-->
 
-<!--
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GeovannaApNunes&theme=github_dark" alt="Profile Details" />
 </p>
@@ -126,7 +126,7 @@ Experiência prática com os principais serviços:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GeovannaApNunes&theme=github_dark" alt="Languages by Repo" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GeovannaApNunes&theme=github_dark" alt="Languages by Commit" />
 </p>
--->
+
 ---
 
 ## 🌐 Conecte-se comigo
