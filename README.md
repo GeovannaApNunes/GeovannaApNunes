@@ -51,6 +51,8 @@ Experiência prática com os principais serviços:
   <img width="170" alt="Badge 6" src="https://github.com/user-attachments/assets/22a920f8-86a4-457f-a6a7-5037af1fb52b" />
   <img width="170" alt="Badge 7" src="https://github.com/user-attachments/assets/53c7d387-c180-4e01-94d4-b8655adc7cc8" />
   <img width="170" alt="Badge 8" src="https://github.com/user-attachments/assets/75851192-f51e-48df-854d-8682a6aad710" />
+ <img width="170" alt="Badge 9" src="https://github.com/user-attachments/assets/4ebbec5d-70f4-43d1-a7d1-d1133b5e6fab" />
+  
 </p>
 
 ---
