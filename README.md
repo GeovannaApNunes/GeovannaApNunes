@@ -60,8 +60,7 @@ Experiência prática com os principais serviços:
 ## 🚀 Tecnologias & Ferramentas
 
 <div align="center">
-
-## 💻 Tecnologias
+  
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,python" /> <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,ps,notion" /> <img src="https://skillicons.dev/icons?i=linux,bash,powershell,aws" /> </p>
 
 </div>
