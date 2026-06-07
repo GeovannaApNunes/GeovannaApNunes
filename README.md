@@ -72,7 +72,7 @@ Experiência prática com os principais serviços:
 </p>
 
 ---
-
+<!--
 ## 🏆 GitHub Achievements
 
 <div align="center">
@@ -80,7 +80,7 @@ Experiência prática com os principais serviços:
 </div>
 
 ## 📊 GitHub Stats
-<!--
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GeovannaApNunes&show_icons=true&theme=dark&count_private=true&hide_border=false" height="150" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeovannaApNunes&layout=compact&langs_count=6&theme=dark&hide_border=false" height="150" alt="Top Languages"/>
