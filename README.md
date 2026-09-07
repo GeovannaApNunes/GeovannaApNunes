@@ -61,7 +61,14 @@ Experiência prática com os principais serviços:
 
 <div align="center">
   
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,python" /> <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,ps,notion" /> <img src="https://skillicons.dev/icons?i=linux,bash,powershell,aws" /> </p>
+<p align="center"> 
+<img src="https://skillicons.dev/icons?i=html,css,js,python" />
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/C.svg"  height="50" /> 
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,ps,notion" /> 
+<img src="https://skillicons.dev/icons?i=linux,bash,powershell,aws" /> 
+
+</p>
+
 
 </div>
 
