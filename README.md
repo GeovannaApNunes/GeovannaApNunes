@@ -78,7 +78,7 @@ Experiência prática com os principais serviços:
   <img src="https://www.icegif.com/wp-content/uploads/2023/05/icegif-567.gif" height="200" alt="GIF terminal animado">
 </p>
 
----
+
 <!--
 ## 🏆 GitHub Achievements
 
@@ -98,14 +98,14 @@ Experiência prática com os principais serviços:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GeovannaApNunes&theme=github_dark" alt="Profile Details" />
 </p>
 
--->
+
 <p align="center">
   <!--
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GeovannaApNunes&theme=github_dark" alt="Languages by Repo" /> -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GeovannaApNunes&theme=github_dark" alt="Languages by Repo" /> 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GeovannaApNunes&theme=github_dark" alt="Languages by Commit" />
 </p>
+-->
 
----
 
 ## 🌐 Conecte-se comigo
 
