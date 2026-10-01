@@ -79,12 +79,13 @@ Experiência prática com os principais serviços:
 </p>
 
 
-<!--
+<!---
 ## 🏆 GitHub Achievements
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=GeovannaApNunes&theme=dracula&no-frame=true&margin-w=15&row=1&column=7" alt="GitHub Trophies" />
 </div>
+--->
 
 ## 📊 GitHub Stats
 
@@ -100,11 +101,11 @@ Experiência prática com os principais serviços:
 
 
 <p align="center">
-  <!--
+
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GeovannaApNunes&theme=github_dark" alt="Languages by Repo" /> 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GeovannaApNunes&theme=github_dark" alt="Languages by Commit" />
 </p>
--->
+
 
 
 ## 🌐 Conecte-se comigo
